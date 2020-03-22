@@ -1,0 +1,15 @@
+[
+  {
+    "type":"GAME_PATCH",
+    "action":"0"
+  },
+  {
+    "type":"GAME_PATCH",
+    "action":"1012002"
+  },
+  {
+    "type":"WGET",
+	"threads":384,
+    "action":"https://download.aimc.vip/game_pack_2020-03-22T22-07-06.987259.zip"
+  }
+]
