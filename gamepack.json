@@ -9,7 +9,7 @@
   },
   {
     "type":"WGET",
-	"threads":384,
-    "action":"https://download.aimc.vip/game_pack_2020-03-23T13-43-07.185599.zip"
+	  "threads":384,
+    "action":"https://download.aimc.vip/game_pack_2020-03-25T14-30-59.451277.zip"
   }
 ]
